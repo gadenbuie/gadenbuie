@@ -1,1 +1,1 @@
-![Metrics](https://github.com/gadenbuie/gadenbuie/blob/master/github-metrics.svg)
+![Metrics](https://github.com/gadenbuie/gadenbuie/raw/main/github-metrics.svg)
