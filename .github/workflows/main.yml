@@ -21,7 +21,7 @@ jobs:
           user: gadenbuie
           template: classic
           base: header, activity, community, repositories, metadata
-          config_animated: yes
+          config_animations: yes
           config_timezone: America/New_York
           plugin_languages: yes
           plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot
