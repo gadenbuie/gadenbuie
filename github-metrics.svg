@@ -881,8 +881,8 @@
             </div>
           
             <div class="entry">
-              <span class="value">8</span>
-              <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+              <span class="value">12</span>
+              <div class="bar" style="height: 37.5px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
               02
             </div>
           
@@ -893,8 +893,8 @@
             </div>
           
             <div class="entry">
-              <span class="value">13</span>
-              <div class="bar" style="height: 40.625px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+              <span class="value">12</span>
+              <div class="bar" style="height: 37.5px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
               04
             </div>
           
@@ -1023,8 +1023,8 @@
           <div class="chart-bars">
             
               <div class="entry">
-                <span class="value">42</span>
-                <div class="bar" style="height: 21.875px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                <span class="value">41</span>
+                <div class="bar" style="height: 21.354166666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                 Sun
               </div>
             
@@ -1041,8 +1041,8 @@
               </div>
             
               <div class="entry">
-                <span class="value">8</span>
-                <div class="bar" style="height: 4.166666666666666px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <span class="value">12</span>
+                <div class="bar" style="height: 6.25px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                 Wed
               </div>
             
@@ -1131,7 +1131,7 @@
       
         <footer>
           <span>These metrics include private contributions, timezone America/New_York</span>
-          <span>Last updated Wed, 27 Jan 2021 01:59:19 GMT with lowlighter/metrics@3.2.0</span>
+          <span>Last updated Wed, 27 Jan 2021 02:41:27 GMT with lowlighter/metrics@3.2.0</span>
         </footer>
       
       <div id="metrics-end"></div>
