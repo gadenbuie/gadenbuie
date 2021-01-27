@@ -767,21 +767,21 @@
         </mask>
         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
         
-          <rect mask="url(#languages-bar)" x="0" y="0" width="230.16181840240242" height="8" fill="#f1e05a"/>
+          <rect mask="url(#languages-bar)" x="0" y="0" width="230.11780404835437" height="8" fill="#f1e05a"/>
         
-          <rect mask="url(#languages-bar)" x="230.16181840240242" y="0" width="159.80495852483816" height="8" fill="#198CE7"/>
+          <rect mask="url(#languages-bar)" x="230.11780404835437" y="0" width="159.7743986688552" height="8" fill="#198CE7"/>
         
-          <rect mask="url(#languages-bar)" x="389.9667769272406" y="0" width="63.72942526758201" height="8" fill="#c6538c"/>
+          <rect mask="url(#languages-bar)" x="389.8922027172096" y="0" width="63.80520496682214" height="8" fill="#c6538c"/>
         
-          <rect mask="url(#languages-bar)" x="453.6962021948226" y="0" width="3.436876227620926" height="8" fill="#ededed"/>
+          <rect mask="url(#languages-bar)" x="453.69740768403176" y="0" width="3.4362189861716192" height="8" fill="#ededed"/>
         
-          <rect mask="url(#languages-bar)" x="457.13307842244353" y="0" width="2.2620037302683254" height="8" fill="#DA5B0B"/>
+          <rect mask="url(#languages-bar)" x="457.13362667020334" y="0" width="2.2615711622875327" height="8" fill="#DA5B0B"/>
         
-          <rect mask="url(#languages-bar)" x="459.39508215271184" y="0" width="0.5784985162837317" height="8" fill="#3572A5"/>
+          <rect mask="url(#languages-bar)" x="459.39519783249085" y="0" width="0.5783878887318261" height="8" fill="#3572A5"/>
         
-          <rect mask="url(#languages-bar)" x="459.97358066899557" y="0" width="0.019269145090418632" height="8" fill="#199f4b"/>
+          <rect mask="url(#languages-bar)" x="459.9735857212227" y="0" width="0.019265460209146403" height="8" fill="#199f4b"/>
         
-          <rect mask="url(#languages-bar)" x="459.992849814086" y="0" width="0.007150185914054713" height="8" fill="#358a5b"/>
+          <rect mask="url(#languages-bar)" x="459.9928511814319" y="0" width="0.007148818568173823" height="8" fill="#358a5b"/>
         
       </svg>
       <div class="field center horizontal-wrap fill-width">
@@ -854,7 +854,7 @@
               <li>Mostly push code around 04:00</li>
             
             
-              <li>Mostly active on tuesday</li>
+              <li>Mostly active on wednesday</li>
             
           </ul>
         
@@ -869,20 +869,20 @@
         <div class="chart-bars">
           
             <div class="entry">
-              <span class="value">9</span>
-              <div class="bar" style="height: 26.47058823529412px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+              <span class="value">8</span>
+              <div class="bar" style="height: 23.52941176470588px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
               00
             </div>
           
             <div class="entry">
-              <span class="value">9</span>
-              <div class="bar" style="height: 26.47058823529412px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+              <span class="value">8</span>
+              <div class="bar" style="height: 23.52941176470588px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
               01
             </div>
           
             <div class="entry">
-              <span class="value">12</span>
-              <div class="bar" style="height: 35.294117647058826px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+              <span class="value">11</span>
+              <div class="bar" style="height: 32.35294117647059px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
               02
             </div>
           
@@ -995,8 +995,8 @@
             </div>
           
             <div class="entry">
-              <span class="value">6</span>
-              <div class="bar" style="height: 17.647058823529413px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+              <span class="value">10</span>
+              <div class="bar" style="height: 29.411764705882355px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
               21
             </div>
           
@@ -1007,8 +1007,8 @@
             </div>
           
             <div class="entry">
-              <span class="value">7</span>
-              <div class="bar" style="height: 20.588235294117645px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+              <span class="value">6</span>
+              <div class="bar" style="height: 17.647058823529413px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
               23
             </div>
           
@@ -1023,26 +1023,26 @@
           <div class="chart-bars">
             
               <div class="entry">
-                <span class="value">1</span>
-                <div class="bar" style="height: 0.5376344086021506px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <span class="value"></span>
+                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                 Sun
               </div>
             
               <div class="entry">
-                <span class="value">67</span>
-                <div class="bar" style="height: 36.02150537634409px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                <span class="value">66</span>
+                <div class="bar" style="height: 35.869565217391305px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                 Mon
               </div>
             
               <div class="entry">
-                <span class="value">93</span>
-                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                <span class="value">91</span>
+                <div class="bar" style="height: 49.45652173913043px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                 Tue
               </div>
             
               <div class="entry">
-                <span class="value">88</span>
-                <div class="bar" style="height: 47.31182795698925px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                <span class="value">92</span>
+                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                 Wed
               </div>
             
@@ -1131,7 +1131,7 @@
       
         <footer>
           <span>These metrics include private contributions, timezone America/New_York</span>
-          <span>Last updated Wed, 27 Jan 2021 20:20:43 GMT with lowlighter/metrics@3.2.0</span>
+          <span>Last updated Wed, 27 Jan 2021 21:17:19 GMT with lowlighter/metrics@3.2.0</span>
         </footer>
       
       <div id="metrics-end"></div>
