@@ -1274,8 +1274,8 @@
         <div class="chart-bars">
           
             <div class="entry">
-              <span class="value">8</span>
-              <div class="bar" style="height: 26.666666666666668px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+              <span class="value">6</span>
+              <div class="bar" style="height: 20px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
               00
             </div>
           
@@ -1376,8 +1376,8 @@
             </div>
           
             <div class="entry">
-              <span class="value">6</span>
-              <div class="bar" style="height: 20px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+              <span class="value">8</span>
+              <div class="bar" style="height: 26.666666666666668px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
               17
             </div>
           
@@ -1440,8 +1440,8 @@
               </div>
             
               <div class="entry">
-                <span class="value">35</span>
-                <div class="bar" style="height: 32.407407407407405px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                <span class="value">37</span>
+                <div class="bar" style="height: 34.25925925925926px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                 Tue
               </div>
             
@@ -1464,8 +1464,8 @@
               </div>
             
               <div class="entry">
-                <span class="value">49</span>
-                <div class="bar" style="height: 45.370370370370374px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                <span class="value">47</span>
+                <div class="bar" style="height: 43.51851851851852px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                 Sat
               </div>
             
@@ -1552,7 +1552,7 @@
           
             <span>These metrics include private contributions, timezone America/New_York</span>
           
-          <span>Last updated Tue, 30 Mar 2021 16:38:51 GMT with lowlighter/metrics@3.5.0</span>
+          <span>Last updated Tue, 30 Mar 2021 17:47:54 GMT with lowlighter/metrics@3.5.0</span>
         </footer>
       
       <div id="metrics-end"></div>
