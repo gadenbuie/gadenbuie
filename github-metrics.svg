@@ -1288,7 +1288,7 @@
                             Use spaces for indents
                         </li>
                         <li>
-                            Mostly push code around 17:00
+                            Mostly push code around 14:00
                         </li>
                         <li>
                             Mostly active on thursday
@@ -1394,16 +1394,16 @@
                     </div>
                     <div class="entry">
                         <span class="value">
-                            7
+                            6
                         </span>
-                        <div class="bar" style="height: 35px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                        <div class="bar" style="height: 30px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                         13
                     </div>
                     <div class="entry">
                         <span class="value">
-                            9
+                            10
                         </span>
-                        <div class="bar" style="height: 45px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                        <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                         14
                     </div>
                     <div class="entry">
@@ -1494,9 +1494,9 @@
                         </div>
                         <div class="entry">
                             <span class="value">
-                                24
+                                22
                             </span>
-                            <div class="bar" style="height: 20px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="height: 18.333333333333332px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             Wed
                         </div>
                         <div class="entry">
@@ -1515,9 +1515,9 @@
                         </div>
                         <div class="entry">
                             <span class="value">
-                                29
+                                31
                             </span>
-                            <div class="bar" style="height: 24.166666666666668px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="height: 25.833333333333336px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             Sat
                         </div>
                     </div>
@@ -1580,7 +1580,7 @@
                     These metrics include private contributions, timezone America/New_York
                 </span>
                 <span>
-                    Last updated Sat, 03 Apr 2021 13:26:25 GMT with lowlighter/metrics@3.6.0
+                    Last updated Sat, 03 Apr 2021 14:20:22 GMT with lowlighter/metrics@3.6.0
                 </span>
             </footer>
             <div id="metrics-end"></div>
