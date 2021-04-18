@@ -1321,7 +1321,7 @@
                             Mostly push code around 17:00
                         </li>
                         <li>
-                            Mostly active on friday
+                            Mostly active on sunday
                         </li>
                     </ul>
                 </div>
@@ -1494,9 +1494,9 @@
                     </div>
                     <div class="entry">
                         <span class="value">
-                            6
+                            8
                         </span>
-                        <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                        <div class="bar" style="height: 33.33333333333333px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                         23
                     </div>
                 </div>
@@ -1509,9 +1509,9 @@
                     <div class="chart-bars">
                         <div class="entry">
                             <span class="value">
-                                49
+                                51
                             </span>
-                            <div class="bar" style="height: 48.03921568627451px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             Sun
                         </div>
                         <div class="entry">
@@ -1583,7 +1583,7 @@
                     These metrics include private contributions, timezone America/New_York
                 </span>
                 <span>
-                    Last updated Sun, 18 Apr 2021 22:24:23 GMT with lowlighter/metrics@3.7.0
+                    Last updated Sun, 18 Apr 2021 23:20:51 GMT with lowlighter/metrics@3.7.0
                 </span>
             </footer>
             <div id="metrics-end"></div>
