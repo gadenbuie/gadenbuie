@@ -1383,8 +1383,8 @@
               13
             </div>
                     <div class="entry">
-              <span class="value">10</span>
-              <div class="bar" style="height: 29.411764705882355px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+              <span class="value">12</span>
+              <div class="bar" style="height: 35.294117647058826px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
               14
             </div>
                     <div class="entry">
@@ -1413,8 +1413,8 @@
               19
             </div>
                     <div class="entry">
-              <span class="value">13</span>
-              <div class="bar" style="height: 38.23529411764706px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+              <span class="value">11</span>
+              <div class="bar" style="height: 32.35294117647059px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
               20
             </div>
                     <div class="entry">
@@ -1459,13 +1459,13 @@
                 Wed
               </div>
                         <div class="entry">
-                <span class="value">29</span>
-                <div class="bar" style="height: 27.884615384615387px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                <span class="value">31</span>
+                <div class="bar" style="height: 29.807692307692307px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                 Thu
               </div>
                         <div class="entry">
-                <span class="value">10</span>
-                <div class="bar" style="height: 9.615384615384617px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <span class="value">8</span>
+                <div class="bar" style="height: 7.6923076923076925px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                 Fri
               </div>
                         <div class="entry">
@@ -1479,21 +1479,21 @@
                     <h3>Language activity</h3>
                     <div class="chart-bars horizontal">
                         <div class="entry">
-                            <span class="name">R</span>
-                            <div class="bar" style="width: 57.25599999999999%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                            <span class="value">72%</span>
+                            <span class="name">HTML</span>
+                            <div class="bar" style="width: 51.416%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <span class="value">64%</span>
                         </div>
                         <div class="entry">
-                            <span class="name">HTML</span>
-                            <div class="bar" style="width: 22.744%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                            <span class="value">28%</span>
+                            <span class="name">R</span>
+                            <div class="bar" style="width: 28.583999999999996%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">36%</span>
                         </div>
                     </div>
                 </section>
             </div>
             <footer>
                 <span>These metrics include private contributions, timezone America/New_York</span>
-                <span>Last updated Thu, 13 May 2021 13:30:03 GMT with lowlighter/metrics@3.9.0</span>
+                <span>Last updated Thu, 13 May 2021 14:20:29 GMT with lowlighter/metrics@3.9.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
