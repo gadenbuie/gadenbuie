@@ -1398,13 +1398,13 @@
               16
             </div>
                     <div class="entry">
-              <span class="value">13</span>
-              <div class="bar" style="height: 38.23529411764706px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+              <span class="value">12</span>
+              <div class="bar" style="height: 35.294117647058826px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
               17
             </div>
                     <div class="entry">
-              <span class="value">14</span>
-              <div class="bar" style="height: 41.17647058823529px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+              <span class="value">13</span>
+              <div class="bar" style="height: 38.23529411764706px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
               18
             </div>
                     <div class="entry">
@@ -1418,8 +1418,8 @@
               20
             </div>
                     <div class="entry">
-              <span class="value">12</span>
-              <div class="bar" style="height: 35.294117647058826px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+              <span class="value">14</span>
+              <div class="bar" style="height: 41.17647058823529px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
               21
             </div>
                     <div class="entry">
@@ -1439,8 +1439,8 @@
                     <h3>Commit activity per day</h3>
                     <div class="chart-bars">
                         <div class="entry">
-                <span class="value">13</span>
-                <div class="bar" style="height: 13.26530612244898px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                <span class="value">11</span>
+                <div class="bar" style="height: 11.224489795918368px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                 Sun
               </div>
                         <div class="entry">
@@ -1469,8 +1469,8 @@
                 Fri
               </div>
                         <div class="entry">
-                <span class="value">43</span>
-                <div class="bar" style="height: 43.87755102040816px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                <span class="value">45</span>
+                <div class="bar" style="height: 45.91836734693878px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                 Sat
               </div>
                     </div>
@@ -1483,7 +1483,7 @@
             </div>
             <footer>
                 <span>These metrics include private contributions, timezone America/New_York</span>
-                <span>Last updated Sat, 15 May 2021 20:21:30 GMT with lowlighter/metrics@3.9.0</span>
+                <span>Last updated Sat, 15 May 2021 21:18:46 GMT with lowlighter/metrics@3.9.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
