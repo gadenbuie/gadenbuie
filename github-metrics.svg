@@ -1457,8 +1457,8 @@
               14
             </div>
                     <div class="entry">
-              <span class="value">7</span>
-              <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+              <span class="value">8</span>
+              <div class="bar" style="height: 28.57142857142857px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
               15
             </div>
                     <div class="entry">
@@ -1477,8 +1477,8 @@
               18
             </div>
                     <div class="entry">
-              <span class="value">13</span>
-              <div class="bar" style="height: 46.42857142857143px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+              <span class="value">12</span>
+              <div class="bar" style="height: 42.857142857142854px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
               19
             </div>
                     <div class="entry">
@@ -1513,8 +1513,8 @@
                 Sun
               </div>
                         <div class="entry">
-                <span class="value">28</span>
-                <div class="bar" style="height: 21.21212121212121px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                <span class="value">29</span>
+                <div class="bar" style="height: 21.96969696969697px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                 Mon
               </div>
                         <div class="entry">
@@ -1523,8 +1523,8 @@
                 Tue
               </div>
                         <div class="entry">
-                <span class="value">12</span>
-                <div class="bar" style="height: 9.090909090909092px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <span class="value">11</span>
+                <div class="bar" style="height: 8.333333333333332px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                 Wed
               </div>
                         <div class="entry">
@@ -1557,7 +1557,7 @@
             </div>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated Mon, 07 Jun 2021 14:44:41 (timezone America/New_York) with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Mon, 07 Jun 2021 15:45:23 (timezone America/New_York) with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
