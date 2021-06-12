@@ -1506,8 +1506,8 @@
                     <h3>Commit activity per day of week</h3>
                     <div class="chart-bars">
                         <div class="entry">
-                <span class="value">1</span>
-                <div class="bar" style="height: 1.1111111111111112px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <span class="value"></span>
+                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                 Sun
               </div>
                         <div class="entry">
@@ -1536,8 +1536,8 @@
                 Fri
               </div>
                         <div class="entry">
-                <span class="value">25</span>
-                <div class="bar" style="height: 27.77777777777778px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                <span class="value">26</span>
+                <div class="bar" style="height: 28.888888888888886px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                 Sat
               </div>
                     </div>
@@ -1545,7 +1545,7 @@
             </div>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated Sat, 12 Jun 2021 22:16:45 (timezone America/New_York) with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Sat, 12 Jun 2021 23:17:32 (timezone America/New_York) with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
