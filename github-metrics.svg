@@ -1595,8 +1595,8 @@
               20
             </div>
                     <div class="entry">
-              <span class="value">11</span>
-              <div class="bar" style="height: 42.30769230769231px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+              <span class="value">10</span>
+              <div class="bar" style="height: 38.46153846153847px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
               21
             </div>
                     <div class="entry">
@@ -1605,8 +1605,8 @@
               22
             </div>
                     <div class="entry">
-              <span class="value">6</span>
-              <div class="bar" style="height: 23.076923076923077px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+              <span class="value">7</span>
+              <div class="bar" style="height: 26.923076923076923px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
               23
             </div>
                 </div>
@@ -1631,13 +1631,13 @@
                 Tue
               </div>
                         <div class="entry">
-                <span class="value">32</span>
-                <div class="bar" style="height: 34.78260869565217px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                <span class="value">33</span>
+                <div class="bar" style="height: 35.869565217391305px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                 Wed
               </div>
                         <div class="entry">
-                <span class="value">3</span>
-                <div class="bar" style="height: 3.260869565217391px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <span class="value">2</span>
+                <div class="bar" style="height: 2.1739130434782608px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                 Thu
               </div>
                         <div class="entry">
@@ -1655,7 +1655,7 @@
             </div>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25/08/2021, 22:26 (timezone America/New_York) with lowlighter/metrics@3.13.0</span>
+                <span>Last updated 25/08/2021, 23:17 (timezone America/New_York) with lowlighter/metrics@3.13.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
