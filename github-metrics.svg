@@ -1500,8 +1500,8 @@
               01
             </div>
                     <div class="entry">
-              <span class="value">4</span>
-              <div class="bar" style="height: 11.76470588235294px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+              <span class="value">5</span>
+              <div class="bar" style="height: 14.705882352941178px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
               02
             </div>
                     <div class="entry">
@@ -1525,8 +1525,8 @@
               06
             </div>
                     <div class="entry">
-              <span class="value">5</span>
-              <div class="bar" style="height: 14.705882352941178px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+              <span class="value">4</span>
+              <div class="bar" style="height: 11.76470588235294px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
               07
             </div>
                     <div class="entry">
@@ -1621,8 +1621,8 @@
                 Sun
               </div>
                         <div class="entry">
-                <span class="value">4</span>
-                <div class="bar" style="height: 3.7037037037037033px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <span class="value">5</span>
+                <div class="bar" style="height: 4.62962962962963px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                 Mon
               </div>
                         <div class="entry">
@@ -1631,8 +1631,8 @@
                 Tue
               </div>
                         <div class="entry">
-                <span class="value">25</span>
-                <div class="bar" style="height: 23.14814814814815px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                <span class="value">24</span>
+                <div class="bar" style="height: 22.22222222222222px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                 Wed
               </div>
                         <div class="entry">
@@ -1655,7 +1655,7 @@
             </div>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30/08/2021, 01:15 (timezone America/New_York) with lowlighter/metrics@3.13.0</span>
+                <span>Last updated 30/08/2021, 02:20 (timezone America/New_York) with lowlighter/metrics@3.13.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
