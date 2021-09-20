@@ -1500,8 +1500,8 @@
               01
             </div>
                     <div class="entry">
-              <span class="value">3</span>
-              <div class="bar" style="height: 9.375px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+              <span class="value">4</span>
+              <div class="bar" style="height: 12.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
               02
             </div>
                     <div class="entry">
@@ -1535,8 +1535,8 @@
               08
             </div>
                     <div class="entry">
-              <span class="value">7</span>
-              <div class="bar" style="height: 21.875px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+              <span class="value">6</span>
+              <div class="bar" style="height: 18.75px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
               09
             </div>
                     <div class="entry">
@@ -1655,7 +1655,7 @@
             </div>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20/09/2021, 01:15 (timezone America/New_York) with lowlighter/metrics@3.13.0</span>
+                <span>Last updated 20/09/2021, 02:20 (timezone America/New_York) with lowlighter/metrics@3.13.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
