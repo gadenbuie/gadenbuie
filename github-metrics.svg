@@ -1367,7 +1367,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -1561,13 +1561,13 @@
                 <h3>Commit activity per hour of day</h3>
                 <div class="chart-bars">
                     <div class="entry">
-              <span class="value">10</span>
-              <div class="bar" style="height: 35.714285714285715px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+              <span class="value">11</span>
+              <div class="bar" style="height: 39.285714285714285px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
               00
             </div>
                     <div class="entry">
-              <span class="value">4</span>
-              <div class="bar" style="height: 14.285714285714285px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+              <span class="value">5</span>
+              <div class="bar" style="height: 17.857142857142858px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
               01
             </div>
                     <div class="entry">
@@ -1601,13 +1601,13 @@
               07
             </div>
                     <div class="entry">
-              <span class="value">5</span>
-              <div class="bar" style="height: 17.857142857142858px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+              <span class="value">4</span>
+              <div class="bar" style="height: 14.285714285714285px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
               08
             </div>
                     <div class="entry">
-              <span class="value">8</span>
-              <div class="bar" style="height: 28.57142857142857px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+              <span class="value">7</span>
+              <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
               09
             </div>
                     <div class="entry">
@@ -1692,8 +1692,8 @@
                 Sun
               </div>
                         <div class="entry">
-                <span class="value">35</span>
-                <div class="bar" style="height: 47.2972972972973px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                <span class="value">33</span>
+                <div class="bar" style="height: 44.5945945945946px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                 Mon
               </div>
                         <div class="entry">
@@ -1717,8 +1717,8 @@
                 Fri
               </div>
                         <div class="entry">
-                <span class="value">1</span>
-                <div class="bar" style="height: 1.3513513513513513px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <span class="value">3</span>
+                <div class="bar" style="height: 4.054054054054054px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                 Sat
               </div>
                     </div>
@@ -1726,7 +1726,7 @@
             </div>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Oct 2021, 00:23:10 (timezone America/New_York) with lowlighter/metrics@3.15.0</span>
+                <span>Last updated 30 Oct 2021, 01:15:45 (timezone America/New_York) with lowlighter/metrics@3.15.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
