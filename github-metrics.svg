@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            18332 Commits
+                            18334 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="306.36636207587463" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="306.36636207587463" y="0" width="127.14835033831272" height="8" fill="#198CE7"/>
-                    <rect mask="url(#languages-bar)" x="433.5147124141874" y="0" width="16.590325803868463" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="450.1050382180558" y="0" width="5.443285785836699" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="455.54832400389256" y="0" width="2.9821376279773952" height="8" fill="#199f4b"/>
-                    <rect mask="url(#languages-bar)" x="458.53046163186997" y="0" width="0.9813571964632326" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="459.51181882833316" y="0" width="0.37498202652964235" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="459.8868008548628" y="0" width="0.1131991451371733" height="8" fill="#244776"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="306.3650314251477" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="306.3650314251477" y="0" width="127.14779809085427" height="8" fill="#198CE7"/>
+                    <rect mask="url(#languages-bar)" x="433.512829516002" y="0" width="16.592251679154888" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="450.1050811951569" y="0" width="5.443262143841087" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="455.548343338998" y="0" width="2.982124675564553" height="8" fill="#199f4b"/>
+                    <rect mask="url(#languages-bar)" x="458.53046801456253" y="0" width="0.9813529341034289" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="459.51182094866596" y="0" width="0.37498039785832604" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="459.8868013465243" y="0" width="0.11319865347573975" height="8" fill="#244776"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -285,7 +285,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 170 commits)</small>
+                    <small class="h-details">(computed from last 172 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -374,13 +374,13 @@
                             14
                         </div>
                         <div class="entry">
-                            <span class="value">9</span>
-                            <div class="bar" style="height: 26.47058823529412px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <span class="value">10</span>
+                            <div class="bar" style="height: 29.411764705882355px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             15
                         </div>
                         <div class="entry">
-                            <span class="value">12</span>
-                            <div class="bar" style="height: 35.294117647058826px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <span class="value">13</span>
+                            <div class="bar" style="height: 38.23529411764706px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             16
                         </div>
                         <div class="entry">
@@ -425,8 +425,8 @@
                         <h3>Commit activity per day of week</h3>
                         <div class="chart-bars">
                             <div class="entry">
-                                <span class="value">19</span>
-                                <div class="bar" style="height: 25.675675675675674px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">21</span>
+                                <div class="bar" style="height: 28.37837837837838px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 Sun
                             </div>
                             <div class="entry">
@@ -465,7 +465,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Jul 2024, 15:12:51 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Jul 2024, 16:18:04 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
